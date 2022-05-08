@@ -2,10 +2,10 @@ const mysql = require('mysql');
 
 //koneksi database
 const koneksi = mysql.createConnection({
-    host: 'XXXX',
-    user: 'XXXX',
-    password:'XXXX',
-    database: 'XXXX',
+    host: 'kenalkoding.com',
+    user: 'u1685809_iqbalsyahrulsiddiq',
+    password:'Persibbandung1933',
+    database: 'u1685809_nodejs_restfull',
     multipleStatements: true
 });
 
